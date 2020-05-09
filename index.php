@@ -3,4 +3,5 @@
    $sum = new sum;
    
    echo $sum ->sumis(10, 10);
+   echo "asaduzzaman sanrto";
 ?>
